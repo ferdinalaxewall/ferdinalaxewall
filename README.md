@@ -1,8 +1,8 @@
 ### 👋 Hello, I'm Ferdinalaxewall
 
-- 🔭 I’m currently working on [UNCAL Digital Technology](https://www.uncal-dt.com)
+- 🔭 I’m currently working as a Backend Developer (Laravel)
 - 👀 Very interested in Frontend Development
-- 🌱 Currently learning ReactJS, Laravel, and Python
+- 🌱 Currently learning Javascript Framework, and Flutter
 - 👯 I’m looking to collaborate on any Web Project
 - 📫 How to reach me: 
   -  Email : axeferdinal@gmail.com
